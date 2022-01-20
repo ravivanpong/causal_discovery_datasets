@@ -1,2 +1,19 @@
-# causal_discovery_datasets
-List of publicly available data sets for causal discovery and causal NLP (event causality identification)
+# Causal Discover and Causal NLP
+List of publicly available data sets for causal discovery and causal NLP
+
+## Causal Discovery Datasets
+### Empirical
+|Name| Domain | Description | Link |
+|----|:-------|:------------|:-----|
+
+#### Observational
+|Name| Domain | Description | Link |
+|----|:-------|:------------|:-----|
+
+#### Inverventional
+|Name| Domain | Description | Link |
+|----|:-------|:------------|:-----|
+
+### Synthetic
+|Name| Domain | Description | Link |
+|----|:-------|:------------|:-----|
